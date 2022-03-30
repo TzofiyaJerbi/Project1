@@ -317,7 +317,7 @@ void PrintList(WorkerList* head)
             PrintWorker('0', ptt->data);
         else
             PrintWorker('1', ptt->data);
-        ptt = ptt->next;
+   \\     ptt = ptt->next;
 
     }
 
